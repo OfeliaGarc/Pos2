@@ -1,0 +1,37 @@
+.uno {
+		height: 300px;
+		width: 300px;
+		background-color: orange;
+}
+.dos {
+		height: 300px;
+		width: 300px;
+		background-color: yellow;
+		margin-top: 30px;
+	}
+	.tres{
+		height: 195px;
+		width: 195px;
+		background-color: green;
+		position: relative;
+		left: 50px;
+		top: 50px;
+	}
+	.cuatro {
+		height: 60px;
+		width: 60px;
+		background-color: blue;
+		position: static;
+	}
+	.cinco {
+		height: 65px;
+		width: 65px;
+		background-color: purple;
+	}
+	.seis {
+		height: 195px;
+		width: 195px;
+		background-color: gray;
+		position: relative;
+		left: 65px;
+	}/* Inserta tu CSS aqui */
